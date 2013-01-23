@@ -1,0 +1,11 @@
+{
+    "name": "saleshero/google-api-php-client",
+    "description": "Google APIs Client Library for PHP",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+    	"classmap": ["src"]
+    }
+}
+
