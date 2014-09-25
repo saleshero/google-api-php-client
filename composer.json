@@ -6,8 +6,9 @@
     },
     "autoload": {
         "files": [
-            "src/Google_Client.php"
-        ],
-	"classmap": ["src/contrib"]
+            "src/Google_Client.php",
+	    "src/contrib/Google_CustomsearchService.php",
+	    "src/contrib/Google_PlusService.php"
+        ]
     }
 }
